@@ -47,11 +47,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
-		<!-- Migracoes - Flyway -->
+		<!-- Migracoes - Flyway 
 		<dependency>
 			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-core</artifactId>
-		</dependency>
+		</dependency> -->
 		<!-- Dependencia do banco de dados MariaDB-->
 		<dependency>
 			<groupId>org.mariadb.jdbc</groupId>
